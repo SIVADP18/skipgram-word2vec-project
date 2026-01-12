@@ -1,0 +1,7 @@
+WORD EMBEDDING ANALYSIS RESULTS
+
+=== Bias Detection (he - she) ===
+doctor   : -0.171
+nurse    : -0.134
+engineer : -0.058
+teacher  : -0.139
